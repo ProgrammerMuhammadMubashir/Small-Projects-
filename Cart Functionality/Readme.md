@@ -8,5 +8,4 @@ A sleek, responsive shopping cart and intuitive controls. Perfect for e-commerce
 | Feature | Description |
 |---------|-------------|
 | **Dynamic Cart** | Add items without page reload |
-| ** Attractive UI**  | Shadows and font sizes |
 | **Mobile-First** | Fully responsive down to 320px |
